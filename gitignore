@@ -1,0 +1,18 @@
+# 통계청 제공 데이터 (보안서약 대상 - 절대 업로드 금지)
+*.txt
+*.xlsx
+*.csv
+
+# 학습된 모델 파일
+*.h5
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 로그
+*.log
