@@ -4,8 +4,8 @@
 > 사업체 텍스트 설명을 입력받아 한국표준산업분류(KSIC) 대·중·소분류를 자동 예측하는 딥러닝 모델
 
 ---
-
-## 프로젝트 개요
+## 📌 프로젝트 진행기간: '21.04~'21.07
+## 📌 프로젝트 개요
 
 전국사업체조사 데이터에서 각 사업체의 업종 설명 텍스트(무엇을 가지고, 어떤 방법으로, 무엇을 생산·제공하는지)를 바탕으로 산업 대분류(19개)·중분류(74개)·소분류(225개)를 순차적으로 예측하는 자연어 분류 모델입니다.
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 데이터 구조
+## 🗂 데이터 구조
 
 | 컬럼 | 설명 | 예시 |
 |------|------|------|
@@ -68,7 +68,7 @@ Embedding(vocab=25000, dim=128)
 
 ---
 
-## 성능
+## 📊 성능
 
 EarlyStopping(patience=0)을 적용하여 최적 epoch에서 조기 종료한 결과입니다.
 
@@ -125,6 +125,5 @@ Mecab 한국어 형태소 분석기 설치 필요 ([설치 가이드](https://ko
 
 ## 참고
 
-- [한국표준산업분류 10차](https://kssc.kostat.go.kr)
-- [전국사업체조사](http://narastat.kr/isaup)
+- [한국표준산업분류 10차]([https://kssc.kostat.go.kr](https://kssc.mods.go.kr:8443/ksscNew_web/kssc/common/ClassificationContent.do?gubun=1&strCategoryNameCode=001))
 - [통계데이터 인공지능 활용대회](https://data.kostat.go.kr/sbchome/contents/cntPage.do?cntntsId=CNTS_000000000000575&curMenuNo=OPT_09_03_00_0)
