@@ -125,5 +125,5 @@ Mecab 한국어 형태소 분석기 설치 필요 ([설치 가이드](https://ko
 
 ## 참고
 
-- [한국표준산업분류 10차]([https://kssc.kostat.go.kr](https://kssc.mods.go.kr:8443/ksscNew_web/kssc/common/ClassificationContent.do?gubun=1&strCategoryNameCode=001))
+- [한국표준산업분류 10차]([https://kssc.kostat.go.kr](https://kssc.mods.go.kr:8443/ksscNew_web/kssc/common/ClassificationContent.do?gubun=1&strCategoryNameCode=001)
 - [통계데이터 인공지능 활용대회](https://data.kostat.go.kr/sbchome/contents/cntPage.do?cntntsId=CNTS_000000000000575&curMenuNo=OPT_09_03_00_0)
