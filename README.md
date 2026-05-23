@@ -127,4 +127,4 @@ Mecab 한국어 형태소 분석기 설치 필요 ([설치 가이드](https://ko
 
 - [한국표준산업분류 10차](https://kssc.kostat.go.kr)
 - [전국사업체조사](http://narastat.kr/isaup)
-- [통계데이터 인공지능 활용대회](https://data.kostat.go.kr)
+- [통계데이터 인공지능 활용대회](https://data.kostat.go.kr/sbchome/contents/cntPage.do?cntntsId=CNTS_000000000000575&curMenuNo=OPT_09_03_00_0)
